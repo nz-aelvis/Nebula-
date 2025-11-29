@@ -1,0 +1,22 @@
+
+{
+  "name": "Nebula ERP",
+  "short_name": "Nebula",
+  "description": "Enterprise Resource Planning with Gemini AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#76B900",
+  "icons": [
+    {
+      "src": "https://aistudiocdn.com/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://aistudiocdn.com/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
